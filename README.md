@@ -3,7 +3,7 @@
 </p>
 # Hi 👋, I'm Shuvro Saha
 
-## 💻 Frontend Developer | MERN Stack Enthusiast
+## 💻 FullStack Developer
 
 ---
 
