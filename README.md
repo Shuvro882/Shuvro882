@@ -22,11 +22,10 @@
 ---
 
 ## 🛠️ Skills
-- HTML | CSS | JavaScript | React | Next.js | Node.js
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github" />
 </p>
-
 ---
 
 ## 🔗 Connect With Me
