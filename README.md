@@ -38,9 +38,12 @@
 - Email: sahashuvro74@gmail.com
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuvro882&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuvro882&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvro882)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvro882&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
