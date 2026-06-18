@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 # Hi 👋, I'm Shuvro Saha
 
 ## 💻 Frontend Developer | MERN Stack Enthusiast
