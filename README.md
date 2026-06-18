@@ -1,9 +1,12 @@
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
-# Hi 👋, I'm Shuvro Saha
+<p align="center">
+  <h1>Hi 👋, I'm Shuvro Saha</h1>
+  <h3>Full Stack Developer</h3>
 
-## 💻 FullStack Developer
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;React+Developer;Next.js+Developer;MERN+Stack+Enthusiast&center=true&width=500&height=50">
+</p>
 
 ---
 
