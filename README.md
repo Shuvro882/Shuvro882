@@ -8,11 +8,13 @@
 ---
 
 ## 👨‍💻 About Me
-👋 Hi, I’m [@Shuvro882](https://github.com/Shuvro882)
+
+👋 Hi, I’m [@Shuvro882](https://github.com/Shuvro882)  
 🖥️ I’m currently working on React.js, Next.js for frontend development.  
 🗄️ Using Node.js, Express.js, MongoDB for the backend.  
 🛠️ I’m currently learning Next.js.  
 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB).  
+
 🌐 Explore My [Portfolio](https://github.com/Shuvro882/shuvro-protfolio) and [Resume](https://your-resume-link.com)  
 📝 I regularly write articles on [LinkedIn](https://linkedin.com)  
 📫 Feel free to reach me out via [Email](mailto:sahashuvro74email@gmail.com)
